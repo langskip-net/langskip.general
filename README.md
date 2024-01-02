@@ -34,7 +34,7 @@ Before you begin, ensure you have the following prerequisites:
 
   - To install this Ansible collection using the command line interface, follow these steps:
 ```bash
-ansible-galaxy collection install git+https://git.langskip.net/99-public/01-ansible/collections/langskip.general,latest
+ansible-galaxy collection install git+https://git.langskip.net/99-public/01-ansible/collections/langskip.general,1.0.0
 ```
 
 #### Using a Requirements File
@@ -44,8 +44,9 @@ ansible-galaxy collection install git+https://git.langskip.net/99-public/01-ansi
 
 ```yaml
  collections:
-  - name: git+https://git.langskip.net/99-public/01-ansible/collections/langskip.general,latest
-    version: latest
+  - name: git+https://git.langskip.net/99-public/01-ansible/collections/langskip.general
+    type: git
+    version: 1.0.0
 ```
 
   * Install the collection by running the following command:
