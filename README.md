@@ -1,6 +1,6 @@
 <div align="center"> <img src="./static/img/logo_langskip.png"/ width=40%> </div>
 
-# Ansible Collection - General
+# Ansible Collection - General.
 
 ![Button: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
