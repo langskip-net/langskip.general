@@ -1,3 +1,4 @@
 [submodule "roles/config-post-install"]
 	path = roles/config-post-install
-	url = git@git.langskip.net:99-public/01-ansible/roles/config-post-install.git
+	url = ssh://git@git.langskip.net:99-public/01-ansible/roles/config-post-install.git
+	branch = main
