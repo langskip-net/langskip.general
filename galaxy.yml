@@ -1,0 +1,12 @@
+namespace: "langskip"
+description: "Langskip General Ansible Collection"
+name: "general"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "Mahel 'Helphy' Brossier <mahel@langskip.net>"
+license:
+    - "GPL-3.0-or-later"
+tags:
+    - collection
+repository: "https://git.langskip.net/99-public/01-ansible/collections/langskip.general"
